@@ -2,8 +2,6 @@
 
 **도시 공간데이터 기반 개인 맞춤형 러닝 코스 추천 서비스**
 
-**공간정보공학과 2026-2학기 종합설계** - 김유진 · 김진 · 김시원 · 유경수
-
 <img width="1890" height="946" alt="DALRO" src="https://github.com/user-attachments/assets/f4931ec9-a492-4932-a15a-569ef169c548" />
 
 ### 주요 기능
