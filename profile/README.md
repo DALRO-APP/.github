@@ -1,12 +1,16 @@
-## Hi there 👋
+# 🏃 DALRO
 
-<!--
+**도시 공간데이터 기반 개인 맞춤형 러닝 코스 추천 서비스**
 
-**Here are some ideas to get you started:**
+**공간정보공학과 2026-2학기 종합설계** - 김유진 · 김진 · 김시원 · 유경수
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<img width="1890" height="946" alt="DALRO" src="https://github.com/user-attachments/assets/f4931ec9-a492-4932-a15a-569ef169c548" />
+
+### 주요 기능
+- 🗺️ 맞춤형 러닝 코스 추천
+- 🎯 페이스 유지 · 체력 강화 · 야간 안전 · 쾌적 러닝 등 목적별 추천
+- 🔀 조건에 맞는 복수 코스 비교 및 선택
+- 📊 러닝 기록 및 결과 분석
+
+사용자의 출발지, 목표 거리, 러닝 목적을 기반으로  
+거리·경사·신호·조명·녹지·수변·혼잡도 등을 고려한 맞춤형 러닝 코스를 추천합니다!
